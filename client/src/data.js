@@ -1,7 +1,7 @@
 export const sliderItems = [
     {
       id: 1,
-      img: "https://i.pinimg.com/564x/93/2d/e1/932de1b5674511802ab2c6067eccffba.jpg",
+      img: "https://www.pngitem.com/pimgs/m/134-1341556_apple-watch-series-4-hd-png-download.png",
       title: "SUMMER SALE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "f5fafd",
